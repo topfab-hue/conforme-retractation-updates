@@ -1,13 +1,13 @@
 {
   "name": "Conforme Rétractation",
   "slug": "conforme-retractation",
-  "version": "1.3.1",
+  "version": "1.3.0",
   "author": "KezaCréation",
   "homepage": "https://github.com/topfab-hue/conforme-retractation-updates",
   "download_url": "https://github.com/topfab-hue/conforme-retractation-updates/releases/latest/download/conforme-retractation.zip",
   "sections": {
     "description": "Plugin de gestion du droit de rétractation EU pour WooCommerce.",
-    "changelog": "<h4>1.3.1</h4><ul><li>Test du serveur de mise à jour GitHub</li></ul><h4>1.3.0</h4><ul><li>Version initiale</li></ul>"
+    "changelog": "<h4>1.3.0</h4><ul><li>Version initiale du serveur de mise à jour</li></ul>"
   },
   "tested": "6.7",
   "requires": "6.0",
