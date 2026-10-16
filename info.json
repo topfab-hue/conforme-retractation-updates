@@ -1,13 +1,13 @@
 {
   "name": "Conforme Rétractation",
   "slug": "conforme-retractation",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "author": "KezaCréation",
   "homepage": "https://github.com/topfab-hue/conforme-retractation-updates",
   "download_url": "https://github.com/topfab-hue/conforme-retractation-updates/releases/latest/download/conforme-retractation.zip",
   "sections": {
     "description": "Plugin de gestion du droit de rétractation EU pour WooCommerce.",
-    "changelog": "<h4>1.3.7</h4><ul><li>Les nouvelles versions apparaissent immédiatement : cache de vérification réduit à 1 h et contourné par « Vérifier à nouveau ».</li></ul><h4>1.3.6</h4><ul><li>Sécurité : mises à jour limitées au dépôt officiel, message d'erreur unique, limitation de débit fiable derrière un proxy, virement refusé si le chiffrement est indisponible, alerte de vérification d'IBAN dans l'email marchand, fichiers index.php de protection.</li></ul><h4>1.3.5</h4><ul><li>UI moins incitative : bouton page commande discret, emails sobres sans insistance sur le délai 14j, badge admin corrigé (pill coloré), email transactionnel WC avec simple note légale en pied.</li></ul><h4>1.3.4</h4><ul><li>Aucun changement fonctionnel — version de vérification du mécanisme de mise à jour auto-hébergée.</li></ul><h4>1.3.3</h4><ul><li>Nouveau : mises à jour auto-hébergées via ce dépôt GitHub, visibles directement dans Extensions.</li></ul><h4>1.3.2</h4><ul><li>Correctif critique : collision entre l'endpoint espace client et la page publique du plugin (toutes deux nommées « retractation »), qui empêchait la page de s'afficher correctement.</li></ul>"
+    "changelog": "<h4>1.3.8</h4><ul><li>Le logo du plugin s'affiche dans l'écran des mises à jour.</li></ul><h4>1.3.7</h4><ul><li>Les nouvelles versions apparaissent immédiatement : cache de vérification réduit à 1 h et contourné par « Vérifier à nouveau ».</li></ul><h4>1.3.6</h4><ul><li>Sécurité : mises à jour limitées au dépôt officiel, message d'erreur unique, limitation de débit fiable derrière un proxy, virement refusé si le chiffrement est indisponible, alerte de vérification d'IBAN dans l'email marchand, fichiers index.php de protection.</li></ul><h4>1.3.5</h4><ul><li>UI moins incitative : bouton page commande discret, emails sobres sans insistance sur le délai 14j, badge admin corrigé (pill coloré), email transactionnel WC avec simple note légale en pied.</li></ul><h4>1.3.4</h4><ul><li>Aucun changement fonctionnel — version de vérification du mécanisme de mise à jour auto-hébergée.</li></ul><h4>1.3.3</h4><ul><li>Nouveau : mises à jour auto-hébergées via ce dépôt GitHub, visibles directement dans Extensions.</li></ul><h4>1.3.2</h4><ul><li>Correctif critique : collision entre l'endpoint espace client et la page publique du plugin (toutes deux nommées « retractation »), qui empêchait la page de s'afficher correctement.</li></ul>"
   },
   "tested": "6.9",
   "requires": "6.3",
